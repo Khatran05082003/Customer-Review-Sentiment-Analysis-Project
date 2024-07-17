@@ -40,3 +40,6 @@ Dự án này tận dụng xử lý ngôn ngữ tự nhiên (NLP) để thu th�
    git clone https://github.com/https://github.com/Khatran05082003/Customer-Review-Sentiment-Analysis-Project.git
 2. Cài đặt các thư viện cần thiết:
 3. Sử dụng các file theo như hướng dẫn sử dụng ở trên:
+![b023f64f-e836-44cc-8116-6469a56e7871](https://github.com/user-attachments/assets/41bbcf7d-9ae4-4f3b-83f0-de0cda54cadf)
+
+![5a921968-8b37-435a-b90c-67751c97f488](https://github.com/user-attachments/assets/36ab3dd2-7641-4409-8116-6b1759fccfed)
